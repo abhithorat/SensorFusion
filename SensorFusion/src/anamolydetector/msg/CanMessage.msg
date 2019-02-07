@@ -1,0 +1,9 @@
+Header heade
+uint8 msgId
+float64 vehicleSpeed
+float64 engineSpeed
+bool driverDoorOpen
+bool frontPassengerDoorOpen
+bool rearLeftDoorOpen
+bool rearRightDoorOpen
+uint64 timeStamp
